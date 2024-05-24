@@ -69,7 +69,8 @@ https://aurelius-in.github.io/book-ai-robotics-future/README.md
 
 # 1. Introduction to AI in Robotics
 
-![1-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/1-1.jpg)
+![1-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-1.jpg)
+
 
 ## 1.1 What is Artificial Intelligence?
 
