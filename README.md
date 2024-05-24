@@ -1,4 +1,4 @@
-https://aurelius-in.github.io/book-ai-robotics-future/
+https://aurelius-in.github.io/book-ai-robotics-future/README.md
 
 # Artificial Intelligence in Robotics: Transforming the Future
 
