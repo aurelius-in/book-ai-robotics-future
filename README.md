@@ -105,6 +105,8 @@ In robotics, AI plays a crucial role in enabling robots to perform complex tasks
 
 AI is transforming the field of robotics by enhancing the capabilities of robots, making them more versatile and efficient. As AI technology continues to evolve, its applications in robotics will expand, leading to even more advanced and intelligent robotic systems.
 
+![1-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-2.jpg)
+
 ## 1.2 The Evolution of Robotics
 
 The field of robotics has undergone significant evolution since its inception, transforming from simple mechanical devices to sophisticated systems integrated with artificial intelligence. Understanding this evolution helps appreciate the current state of robotics and its potential future developments.
@@ -148,6 +150,8 @@ The future of robotics is promising, with ongoing research and development aimed
 - **Ethical and Social Considerations:** Addressing ethical and social implications, such as job displacement and privacy concerns, will be crucial for the responsible development and deployment of robots.
 
 The evolution of robotics reflects the continuous interplay between technological advancements and human ingenuity. As we move forward, the integration of AI in robotics will play a pivotal role in shaping the future of this dynamic field.
+
+![1-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-3.jpg)
 
 ## 1.3 The Intersection of AI and Robotics
 
@@ -200,6 +204,7 @@ While the intersection of AI and robotics presents immense opportunities, it als
 
 The fusion of AI and robotics is transforming industries and society, paving the way for a future where intelligent robots play an integral role in our daily lives. As these technologies continue to advance, the potential for innovation and impact grows exponentially.
 
+![1-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-4.jpg)
 
 ## 1.4 Overview of the Book
 
@@ -246,6 +251,8 @@ The concluding chapter recaps the key concepts discussed throughout the book and
 The appendices provide additional resources, including a glossary of terms, a list of AI and robotics resources, and references for further reading. These sections are designed to support and enhance the reader's understanding of the topics covered in the book.
 
 By the end of this book, readers will have a thorough understanding of how artificial intelligence is transforming the field of robotics. Whether you are a student, a professional, or simply an enthusiast, this book will equip you with the knowledge and insights needed to appreciate the current state and future potential of AI-powered robotics.
+
+![2-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-1.jpg)
 
 ## 2.1 Basic Components of Robots
 
@@ -304,6 +311,8 @@ Communication systems enable robots to exchange information with other machines,
 ### Conclusion
 
 Each of these components plays a vital role in the functionality and performance of a robot. By understanding the basic components of robots, we can better appreciate how artificial intelligence can enhance these machines, making them more capable, versatile, and intelligent. The integration of AI with these fundamental elements is what enables modern robots to perform complex tasks autonomously and adapt to dynamic environments.
+
+![2-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-2.jpg)
 
 ## 2.2 Types of Robots
 
@@ -365,6 +374,8 @@ Swarm robots consist of multiple simple robots that work together to perform com
 ### Conclusion
 
 The diversity in types of robots reflects the wide range of applications and environments in which they operate. Each type of robot is designed with specific capabilities and functionalities to address particular challenges. Understanding these types helps in appreciating the role of AI in enhancing their performance and expanding their potential applications.
+
+![2-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-3.jpg)
 
 ## 2.3 Robotic Sensors and Actuators
 
@@ -428,6 +439,8 @@ A robotic arm equipped with various sensors and actuators can perform tasks such
 ### Conclusion
 
 Sensors and actuators are the building blocks of robotic systems, enabling them to perceive and interact with their environment effectively. Understanding the various types of sensors and actuators and their integration is essential for designing and developing advanced robotic systems. The synergy between sensors and actuators, powered by sophisticated control algorithms, is what makes robots intelligent and capable of performing complex tasks autonomously.
+
+![2-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-4.jpg)
 
 ## 2.4 The Role of Control Systems
 
