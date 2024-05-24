@@ -1,6 +1,6 @@
 https://aurelius-in.github.io/book-ai-robotics-future/README.md
 
-![Cover Image](https://github.com/aurelius-in/book-ai-robotics/cover.jpg)
+![Cover Image](https://github.com/aurelius-in/raw/main/book-ai-robotics/cover.jpg)
 
 
 # Artificial Intelligence in Robotics: Transforming the Future
