@@ -2032,6 +2032,8 @@ Service and companion robots offer significant benefits, including improved effi
 
 ## 5.4 AI in Autonomous Vehicles
 
+![5-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/5-4.jpg)
+
 Autonomous vehicles (AVs) leverage artificial intelligence (AI) to navigate, make decisions, and operate without human intervention. These vehicles are transforming the transportation industry by enhancing safety, efficiency, and convenience. This section explores the key components, applications, benefits, and challenges of AI in autonomous vehicles.
 
 ### Key Components of AI in Autonomous Vehicles
@@ -2201,6 +2203,8 @@ AI in autonomous vehicles offers significant benefits, including improved safety
 
 ## 5.5 Robots in Space Exploration
 
+![5-5](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/5-5.jpg)
+
 Robots play a crucial role in space exploration, enabling missions to distant planets, moons, and other celestial bodies. These robots perform tasks that are too dangerous, complex, or impractical for human astronauts, providing valuable data and expanding our understanding of the universe. This section explores the key applications, benefits, and challenges of robots in space exploration.
 
 ### Key Applications of Robots in Space Exploration
@@ -2357,6 +2361,8 @@ Robots are essential for space exploration, providing the capabilities to explor
 
 ## 6.1 Industrial Robots: The Role of AI in Manufacturing
 
+![6-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/6-1.jpg)
+
 Industrial robots have transformed manufacturing by automating repetitive tasks, improving precision, and increasing productivity. The integration of artificial intelligence (AI) into industrial robots further enhances their capabilities, enabling them to learn, adapt, and perform complex tasks with minimal human intervention. This case study explores the role of AI in industrial robots, focusing on their applications, benefits, and a real-world example.
 
 ### Applications of AI in Industrial Robots
@@ -2499,7 +2505,11 @@ The initial investment in AI-powered robots can be high, making it challenging f
 ### Conclusion
 
 The integration of AI into industrial robots has revolutionized manufacturing, offering significant benefits in terms of productivity, quality, cost savings, flexibility, and safety. By leveraging AI-powered robots, manufacturers can optimize their operations and stay competitive in a rapidly evolving market. However, addressing challenges such as integration complexity, data requirements, and cost considerations is crucial for successful implementation. As AI technology continues to advance, the role of industrial robots in manufacturing will expand, leading to even greater capabilities and efficiencies.
+
+
 ## 6.2 Medical Robots: Case Study on Robotic Surgery
+
+![6-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/6-2.jpg)
 
 Medical robots, particularly those used in robotic surgery, have revolutionized the field of medicine by enhancing precision, reducing recovery times, and improving patient outcomes. This case study focuses on the role of robotic surgery systems, their applications, benefits, and a real-world example of their impact on healthcare.
 
@@ -2683,7 +2693,10 @@ Improvements in imaging and visualization technologies will enhance the capabili
 ### Conclusion
 
 Robotic surgery has revolutionized the field of medicine, offering significant benefits in terms of precision, recovery times, patient outcomes, and surgeon ergonomics. The Da Vinci Surgical System is a prime example of how robotic systems are transforming surgical practices and improving patient care. However, addressing challenges such as high costs, training, integration, and ethical considerations is crucial for the continued success and adoption of robotic surgery. As technology advances, the future of robotic surgery promises even greater capabilities and innovations, further enhancing the field of medicine.
+
 ## 6.3 Autonomous Vehicles: Case Study on Self-Driving Cars
+
+![6-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/6-3.jpg)
 
 Self-driving cars, a prominent application of autonomous vehicles (AVs), leverage artificial intelligence (AI) to navigate, make decisions, and operate without human intervention. These vehicles have the potential to transform transportation by enhancing safety, efficiency, and convenience. This case study explores the development, benefits, challenges, and a real-world example of self-driving cars.
 
