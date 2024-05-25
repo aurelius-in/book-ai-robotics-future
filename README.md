@@ -105,9 +105,10 @@ In robotics, AI plays a crucial role in enabling robots to perform complex tasks
 
 AI is transforming the field of robotics by enhancing the capabilities of robots, making them more versatile and efficient. As AI technology continues to evolve, its applications in robotics will expand, leading to even more advanced and intelligent robotic systems.
 
+## 1.2 The Evolution of Robotics
+
 ![1-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-2.jpg)
 
-## 1.2 The Evolution of Robotics
 
 The field of robotics has undergone significant evolution since its inception, transforming from simple mechanical devices to sophisticated systems integrated with artificial intelligence. Understanding this evolution helps appreciate the current state of robotics and its potential future developments.
 
@@ -151,9 +152,11 @@ The future of robotics is promising, with ongoing research and development aimed
 
 The evolution of robotics reflects the continuous interplay between technological advancements and human ingenuity. As we move forward, the integration of AI in robotics will play a pivotal role in shaping the future of this dynamic field.
 
-![1-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-3.jpg)
 
 ## 1.3 The Intersection of AI and Robotics
+
+![1-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-3.jpg)
+
 
 The intersection of artificial intelligence (AI) and robotics represents a convergence of two powerful fields that together create systems capable of performing tasks autonomously, intelligently, and efficiently. This synergy enhances the capabilities of robots, allowing them to operate in dynamic and complex environments.
 
@@ -204,9 +207,9 @@ While the intersection of AI and robotics presents immense opportunities, it als
 
 The fusion of AI and robotics is transforming industries and society, paving the way for a future where intelligent robots play an integral role in our daily lives. As these technologies continue to advance, the potential for innovation and impact grows exponentially.
 
-![1-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-4.jpg)
-
 ## 1.4 Overview of the Book
+
+![1-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/1-4.jpg)
 
 This book, "Artificial Intelligence in Robotics: Transforming the Future," aims to provide a comprehensive understanding of how AI is revolutionizing the field of robotics. It is structured to guide readers through the fundamental concepts, current applications, and future prospects of AI in robotics, making it accessible to both beginners and professionals.
 
@@ -252,9 +255,9 @@ The appendices provide additional resources, including a glossary of terms, a li
 
 By the end of this book, readers will have a thorough understanding of how artificial intelligence is transforming the field of robotics. Whether you are a student, a professional, or simply an enthusiast, this book will equip you with the knowledge and insights needed to appreciate the current state and future potential of AI-powered robotics.
 
-![2-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-1.jpg)
-
 ## 2.1 Basic Components of Robots
+
+![2-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-1.jpg)
 
 Understanding the basic components of robots is crucial for grasping how they function and how artificial intelligence can enhance their capabilities. Robots are complex machines composed of several key elements, each serving a specific purpose in the overall operation of the system. This section will provide an overview of these essential components.
 
@@ -312,9 +315,9 @@ Communication systems enable robots to exchange information with other machines,
 
 Each of these components plays a vital role in the functionality and performance of a robot. By understanding the basic components of robots, we can better appreciate how artificial intelligence can enhance these machines, making them more capable, versatile, and intelligent. The integration of AI with these fundamental elements is what enables modern robots to perform complex tasks autonomously and adapt to dynamic environments.
 
-![2-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-2.jpg)
-
 ## 2.2 Types of Robots
+
+![2-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-2.jpg)
 
 Robots come in various forms, each designed to perform specific tasks in diverse environments. Understanding the different types of robots helps in appreciating their applications and the unique challenges they address. This section categorizes robots based on their functions, configurations, and operating environments.
 
@@ -375,9 +378,9 @@ Swarm robots consist of multiple simple robots that work together to perform com
 
 The diversity in types of robots reflects the wide range of applications and environments in which they operate. Each type of robot is designed with specific capabilities and functionalities to address particular challenges. Understanding these types helps in appreciating the role of AI in enhancing their performance and expanding their potential applications.
 
-![2-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-3.jpg)
-
 ## 2.3 Robotic Sensors and Actuators
+
+![2-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-3.jpg)
 
 Sensors and actuators are integral components of a robot, enabling it to perceive and interact with its environment. This section delves into the various types of sensors and actuators used in robotics, explaining their functions and applications.
 
@@ -440,9 +443,9 @@ A robotic arm equipped with various sensors and actuators can perform tasks such
 
 Sensors and actuators are the building blocks of robotic systems, enabling them to perceive and interact with their environment effectively. Understanding the various types of sensors and actuators and their integration is essential for designing and developing advanced robotic systems. The synergy between sensors and actuators, powered by sophisticated control algorithms, is what makes robots intelligent and capable of performing complex tasks autonomously.
 
-![2-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-4.jpg)
-
 ## 2.4 The Role of Control Systems
+
+![2-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/2-4.jpg)
 
 Control systems are the brains of a robot, orchestrating its movements and operations by processing sensory data and sending commands to actuators. They ensure that the robot performs tasks accurately and efficiently, adapting to changes in the environment and achieving desired outcomes. This section explores the different types of control systems and their functions in robotics.
 
@@ -486,6 +489,9 @@ Control algorithms define how the controller processes sensor data and determine
 
 ### Advanced Control Techniques
 
+###### Control systems are the backbone of robotic functionality, enabling robots to perform tasks with precision, stability, and adaptability. By processing sensory data and generating commands for actuators, control systems ensure that robots operate efficiently and respond to changes in their environment. Understanding the role and components of control systems is essential for developing advanced robotic applications that can meet the demands of various industries and tasks.
+
+
 1. **Adaptive Control**
 
 Adaptive control systems can adjust their parameters automatically in response to changes in the environment or system dynamics. This makes them suitable for applications where conditions vary over time.
@@ -526,10 +532,9 @@ Control systems enable robots to interact with their environment effectively, us
 
 - **Example:** Autonomous vacuum cleaners that navigate around obstacles and adjust their cleaning patterns based on floor types.
 
-### Conclusion
-
-Control systems are the backbone of robotic functionality, enabling robots to perform tasks with precision, stability, and adaptability. By processing sensory data and generating commands for actuators, control systems ensure that robots operate efficiently and respond to changes in their environment. Understanding the role and components of control systems is essential for developing advanced robotic applications that can meet the demands of various industries and tasks.
 ## 3.1 Machine Learning
+
+![3-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/3-1.jpg)
 
 Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn from data, improve their performance over time, and make predictions or decisions without being explicitly programmed for each task. In robotics, ML plays a crucial role in enhancing the capabilities of robots, allowing them to perform complex tasks autonomously. This section explores the core concepts of machine learning, its types, and applications in robotics.
 
@@ -619,7 +624,10 @@ Machine learning is a fundamental technology that significantly enhances the cap
 
 ## 3.2 Deep Learning
 
-Deep learning is a subset of machine learning that involves neural networks with many layers, known as deep neural networks. These networks are capable of learning from large amounts of data, making them particularly effective for tasks that involve complex patterns and representations, such as image and speech recognition. In robotics, deep learning enhances the robot's ability to perceive, understand, and interact with the environment. This section explores the principles of deep learning, its architectures, and applications in robotics.
+![3-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/3-2.jpg)
+
+
+##### Deep learning is a subset of machine learning that involves neural networks with many layers, known as deep neural networks. These networks are capable of learning from large amounts of data, making them particularly effective for tasks that involve complex patterns and representations, such as image and speech recognition. In robotics, deep learning enhances the robot's ability to perceive, understand, and interact with the environment. This section explores the principles of deep learning, its architectures, and applications in robotics.
 
 ### Core Principles of Deep Learning
 
@@ -722,11 +730,11 @@ Deep learning models can analyze sensor data to predict equipment failures and d
 - **Predictive Maintenance:** Identifying potential issues before they lead to failures.
 - **Anomaly Detection:** Detecting unusual patterns that indicate malfunctions or deviations from normal behavior.
 
-### Conclusion
-
-Deep learning significantly enhances the capabilities of robots, allowing them to perform tasks that require high levels of perception, understanding, and decision-making. By leveraging advanced neural network architectures, robots can navigate complex environments, interact effectively with humans, and perform intricate manipulation tasks. Understanding the principles and applications of deep learning in robotics is essential for developing the next generation of intelligent robotic systems.
-
+###### Deep learning significantly enhances the capabilities of robots, allowing them to perform tasks that require high levels of perception, understanding, and decision-making. By leveraging advanced neural network architectures, robots can navigate complex environments, interact effectively with humans, and perform intricate manipulation tasks. Understanding the principles and applications of deep learning in robotics is essential for developing the next generation of intelligent robotic systems.
+ 
 ## 3.3 Neural Networks
+
+![3-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/3-3.jpg)
 
 Neural networks are the foundation of many machine learning and deep learning algorithms. Inspired by the human brain's structure, neural networks consist of interconnected layers of nodes (neurons) that process and transform input data to produce desired outputs. This section explores the architecture, types, and training of neural networks, as well as their applications in robotics.
 
@@ -847,6 +855,9 @@ Neural networks are a powerful tool in the field of robotics, providing the capa
 
 ## 3.4 Natural Language Processing
 
+![3-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/3-4.jpg)
+
+
 Natural Language Processing (NLP) is a branch of artificial intelligence that focuses on the interaction between computers and human languages. NLP enables robots to understand, interpret, and generate human language, enhancing their ability to communicate and interact with humans. This section explores the key concepts, techniques, and applications of NLP in robotics.
 
 ### Core Concepts of Natural Language Processing
@@ -959,6 +970,8 @@ Ethical considerations, such as privacy, bias, and fairness, are critical in NLP
 Natural Language Processing is a powerful technology that enhances the communication and interaction capabilities of robots. By understanding and leveraging NLP techniques, robots can understand human language, engage in meaningful conversations, and respond appropriately to user needs. As NLP technology continues to advance, its applications in robotics will expand, leading to more intuitive and effective human-robot interactions.
 
 ## 3.5 Computer Vision
+
+![3-5](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/3-5.jpg)
 
 Computer Vision (CV) is a field of artificial intelligence that enables machines to interpret and understand visual information from the world. In robotics, computer vision is crucial for tasks such as navigation, object recognition, and interaction with the environment. This section explores the core concepts, techniques, and applications of computer vision in robotics.
 
@@ -1084,6 +1097,8 @@ Computer vision is a powerful technology that significantly enhances the capabil
 
 ## 4.1 AI Algorithms for Robotics
 
+![4-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/4-1.jpg)
+
 Artificial Intelligence (AI) algorithms are at the heart of modern robotics, enabling robots to perform complex tasks autonomously and intelligently. These algorithms allow robots to perceive their environment, make decisions, and execute actions based on the data they receive. This section explores the key AI algorithms used in robotics, their functions, and applications.
 
 ### Types of AI Algorithms in Robotics
@@ -1188,6 +1203,8 @@ The deployment of AI in robotics raises ethical and social concerns, such as pri
 AI algorithms are the driving force behind the capabilities of modern robots, enabling them to perceive, navigate, manipulate, and interact with their environment. By understanding and leveraging these algorithms, we can develop intelligent robotic systems that can perform complex tasks autonomously and adapt to dynamic conditions. As AI technology continues to advance, its applications in robotics will expand, leading to more sophisticated and versatile robots that can tackle a broader range of challenges.
 
 ## 4.2 Training Robots with Machine Learning
+
+![4-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/4-2.jpg)
 
 Training robots with machine learning involves using algorithms and data to teach robots how to perform tasks autonomously. This process includes collecting data, selecting appropriate algorithms, training models, and deploying these models in robotic systems. This section explores the steps and methodologies involved in training robots using machine learning.
 
@@ -1328,6 +1345,8 @@ Training robots with machine learning involves a systematic process of data coll
 
 ## 4.3 Enhancing Perception with Computer Vision
 
+![4-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/4-3.jpg)
+
 Computer vision plays a pivotal role in enhancing a robot's perception capabilities, enabling it to interpret and interact with its environment effectively. By processing visual information from cameras and other sensors, robots can perform tasks such as object recognition, navigation, and manipulation with greater accuracy and efficiency. This section explores the techniques and applications of computer vision in robotics.
 
 ### Core Techniques in Computer Vision
@@ -1453,6 +1472,9 @@ Addressing privacy concerns and ensuring fair and unbiased operation in computer
 Computer vision significantly enhances a robot's ability to perceive and interact with its environment, enabling autonomous navigation, precise manipulation, and effective human-robot interaction. By leveraging advanced techniques in image processing, feature extraction, and deep learning, robots can perform complex tasks with greater accuracy and efficiency. As computer vision technology continues to evolve, its applications in robotics will expand, leading to more intelligent and versatile robotic systems.
 
 ## 4.4 Autonomous Decision Making
+
+![4-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/4-4.jpg)
+
 
 Autonomous decision making is a critical capability for robots, enabling them to operate independently in dynamic and complex environments. This involves using algorithms and models that allow robots to perceive their surroundings, evaluate possible actions, and make informed decisions to achieve specific goals. This section explores the key concepts, techniques, and applications of autonomous decision making in robotics.
 
@@ -1593,6 +1615,9 @@ Autonomous decision making is a cornerstone of modern robotics, enabling robots 
 
 ## 5.1 Industrial Automation
 
+![5-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/5-1.jpg)
+
+
 Industrial automation involves the use of robotic systems to perform tasks traditionally done by humans in manufacturing and production environments. Robots enhance efficiency, precision, and safety, transforming the landscape of modern industry. This section explores the key applications, benefits, and challenges of industrial automation with robotics.
 
 ### Key Applications of Robotics in Industrial Automation
@@ -1712,6 +1737,9 @@ Robotic automation can contribute to sustainable manufacturing practices by redu
 Industrial automation with robotics offers significant benefits, including increased efficiency, improved quality, enhanced safety, cost savings, and flexibility. By leveraging advanced robotic systems, manufacturers can optimize their operations and stay competitive in a rapidly evolving market. However, addressing challenges such as high initial costs, technical complexity, workforce displacement, maintenance, and cybersecurity is crucial for successful implementation. As technology continues to advance, the future of industrial automation promises even greater capabilities and opportunities for innovation.
 
 ## 5.2 Healthcare and Medical Robots
+
+![5-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/5-2.jpg)
+
 
 Healthcare and medical robots are transforming the field of medicine by enhancing the precision, efficiency, and capabilities of medical procedures and patient care. These robots assist in surgeries, diagnostics, rehabilitation, and daily patient management, leading to improved outcomes and patient experiences. This section explores the key applications, benefits, and challenges of healthcare and medical robots.
 
@@ -1853,6 +1881,9 @@ Developing robots that focus on patient comfort, engagement, and personalization
 Healthcare and medical robots offer significant benefits, including increased precision, enhanced efficiency, improved patient outcomes, reduced healthcare costs, and increased access to healthcare services. By leveraging advanced robotic systems, healthcare providers can optimize their operations and deliver higher-quality care. However, addressing challenges such as high initial costs, technical complexity, integration, regulatory compliance, and ethical concerns is crucial for successful implementation. As technology continues to advance, the future of medical robotics promises even greater capabilities and opportunities for innovation in healthcare.
 
 ## 5.3 Service and Companion Robots
+
+![5-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/5-3.jpg)
+
 
 Service and companion robots are designed to assist humans in various tasks and provide companionship. These robots are increasingly being used in homes, offices, hospitals, and public spaces to improve the quality of life, enhance efficiency, and offer support in daily activities. This section explores the key applications, benefits, and challenges of service and companion robots.
 
