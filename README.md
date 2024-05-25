@@ -1617,7 +1617,6 @@ Autonomous decision making is a cornerstone of modern robotics, enabling robots 
 
 ![5-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/5-1.jpg)
 
-
 Industrial automation involves the use of robotic systems to perform tasks traditionally done by humans in manufacturing and production environments. Robots enhance efficiency, precision, and safety, transforming the landscape of modern industry. This section explores the key applications, benefits, and challenges of industrial automation with robotics.
 
 ### Key Applications of Robotics in Industrial Automation
@@ -2888,6 +2887,8 @@ Self-driving cars offer significant benefits, including improved safety, increas
 
 ## 6.4 Agricultural Robots: Case Study on Autonomous Farming
 
+![6-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/6-4.jpg)
+
 Agricultural robots, or agribots, are transforming modern farming by automating tasks, increasing efficiency, and improving crop yields. These robots leverage advanced technologies, including artificial intelligence (AI), machine learning, and robotics, to perform a variety of agricultural tasks. This case study explores the development, benefits, challenges, and a real-world example of autonomous farming using agricultural robots.
 
 ### Development of Agricultural Robots
@@ -3083,6 +3084,8 @@ Future agricultural robots will focus on sustainability and reducing environment
 Agricultural robots offer significant benefits, including increased efficiency, improved crop yields, labor savings, environmental sustainability, and data-driven decision-making. By leveraging advanced technologies, agricultural robots can transform modern farming and address the challenges of labor shortages, resource optimization, and environmental impact. However, addressing challenges such as technical complexity, cost considerations, data management, and integration is crucial for successful implementation. As technology continues to advance, the future of agricultural robotics promises even greater capabilities and innovations, further enhancing the field of agriculture.
 
 ## 7.1 Robotics in Hazardous Environments: Case Study on Disaster Response Robots
+
+![7-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/7-1.jpg)
 
 Disaster response robots are deployed in hazardous environments to assist in search and rescue operations, assess damage, and provide critical support during emergencies. These robots can operate in conditions that are dangerous for human responders, increasing the efficiency and safety of disaster response efforts. This case study explores the development, applications, benefits, challenges, and a real-world example of disaster response robots.
 
@@ -3292,6 +3295,8 @@ Future disaster response robots will offer increased automation, handling a wide
 
 ## 7.2 Military Robots: Case Study on Unmanned Aerial Vehicles (UAVs)
 
+![7-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/7-2.jpg)
+
 Military robots, particularly Unmanned Aerial Vehicles (UAVs), have become a crucial component of modern warfare. UAVs, commonly known as drones, perform various tasks such as surveillance, reconnaissance, and targeted strikes, enhancing military capabilities while reducing risks to human soldiers. This case study explores the development, applications, benefits, challenges, and a real-world example of UAVs in military operations.
 
 ### Development of UAVs in Military Operations
@@ -3487,6 +3492,8 @@ Gaining public trust and acceptance of UAVs in military operations is crucial fo
 
 
 ## 7.3 Construction Robots: Case Study on Autonomous Construction Equipment
+
+![7-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/7-3.jpg)
 
 Construction robots are revolutionizing the construction industry by enhancing efficiency, precision, and safety on job sites. These robots perform various tasks, from bricklaying and welding to demolition and inspection, transforming how buildings and infrastructure are constructed. This case study explores the development, applications, benefits, challenges, and a real-world example of autonomous construction equipment.
 
@@ -3714,6 +3721,8 @@ Construction robots offer significant benefits,
 
 ## 7.4 Healthcare Robots: Case Study on Rehabilitation Robots
 
+![7-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/7-4.jpg)
+
 Healthcare robots, particularly those used in rehabilitation, are transforming patient care by enhancing the effectiveness and efficiency of physical therapy and recovery processes. Rehabilitation robots assist patients in regaining mobility, strength, and independence after injuries, surgeries, or neurological conditions. This case study explores the development, applications, benefits, challenges, and a real-world example of rehabilitation robots.
 
 ### Development of Rehabilitation Robots
@@ -3936,6 +3945,8 @@ Future rehabilitation robots will focus on sustainability and reducing environme
 
 ## 8.1 Ethical Considerations in Robotics
 
+![8-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/8-1.jpg)
+
 The rapid advancement of robotics technology brings numerous benefits, but it also raises important ethical considerations. As robots become increasingly integrated into various aspects of society, it is crucial to address these ethical issues to ensure that the development and deployment of robots align with societal values and norms. This section explores key ethical considerations in robotics, including autonomy, privacy, employment, safety, and legal implications.
 
 ### Key Ethical Considerations
@@ -4042,6 +4053,8 @@ Addressing ethical considerations in robotics is essential to ensure that the de
 
 
 ## 8.2 Privacy Concerns in Robotics
+
+![8-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/8-2.jpg)
 
 As robots become increasingly integrated into various aspects of society, privacy concerns have emerged as a significant ethical issue. Robots equipped with sensors, cameras, and data-processing capabilities can collect and analyze vast amounts of personal information, raising concerns about how this data is used, stored, and shared. This section explores key privacy concerns in robotics, including data collection, data security, consent, and regulatory frameworks.
 
@@ -4156,6 +4169,8 @@ Incorporating privacy considerations into the design and development of robots t
 Addressing privacy concerns in robotics is essential to ensure that the development and deployment of robots align with societal values and respect individual privacy rights. By implementing data minimization practices, robust security measures, transparent data practices, and ensuring compliance with regulations, we can mitigate privacy risks and build trust with users. Ethical design and development practices further ensure that robots are developed in a manner that respects privacy and promotes the responsible use of technology.
 
 ## 8.3 Legal and Regulatory Challenges in Robotics
+
+![8-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/8-3.jpg)
 
 The rapid advancement of robotics technology poses significant legal and regulatory challenges. As robots become more autonomous and integrated into various sectors, it is essential to develop appropriate legal frameworks and regulations to address issues related to safety, liability, privacy, and ethical considerations. This section explores the key legal and regulatory challenges in robotics, including the development of standards, liability and accountability, data protection, and the ethical implications of robotic systems.
 
@@ -4285,6 +4300,8 @@ Addressing the legal and regulatory challenges in robotics is essential to ensur
 
 ## 8.4 Ethical and Social Implications of AI in Robotics
 
+![8-4](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/8-4.jpg)
+
 The integration of artificial intelligence (AI) into robotics brings transformative potential across various sectors, but it also raises significant ethical and social implications. As AI-powered robots become more autonomous and capable, it is crucial to address the ethical and social challenges to ensure that these technologies are developed and used responsibly. This section explores the key ethical and social implications of AI in robotics, including bias and discrimination, autonomy and decision-making, job displacement, and human-robot interaction.
 
 ### Key Ethical and Social Implications
@@ -4386,6 +4403,8 @@ Prioritizing human-centric design principles in the development of AI-powered ro
 The ethical and social implications of AI in robotics are complex and multifaceted, requiring careful consideration and proactive measures to ensure responsible development and use. By addressing issues related to bias and discrimination, autonomy and decision-making, job displacement, and human-robot interaction, we can harness the potential of AI-powered robots while safeguarding ethical principles and promoting social well-being. Through inclusive development, ethical guidelines, public awareness, and human-centric design, we can navigate the challenges and opportunities of AI in robotics for the benefit of society.
 
 ## 9.1 Future Trends in Robotics
+
+![9-1](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/9-1.jpg)
 
 The field of robotics is evolving rapidly, driven by advances in artificial intelligence (AI), machine learning, sensor technology, and materials science. As these technologies continue to develop, several emerging trends are set to shape the future of robotics. This section explores key future trends in robotics, including advancements in AI, collaborative robots (cobots), soft robotics, swarm robotics, and the integration of robotics with the Internet of Things (IoT).
 
@@ -4505,6 +4524,8 @@ The future of robotics is marked by exciting advancements and emerging trends th
 
 ## 9.2 Innovations in Robot Design and Engineering
 
+![9-2](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/9-2.jpg)
+
 Innovations in robot design and engineering are driving the next generation of robotic systems, enhancing their capabilities, efficiency, and versatility. Advances in materials science, miniaturization, energy efficiency, and modularity are enabling the creation of robots that can perform increasingly complex tasks in diverse environments. This section explores key innovations in robot design and engineering, including biomimicry, modular robotics, energy-efficient systems, miniaturization, and human-robot interfaces.
 
 ### Key Innovations in Robot Design and Engineering
@@ -4619,6 +4640,8 @@ Innovations in robot design and engineering are driving the future of robotics, 
 
 ## 9.3 The Role of Robotics in Industry 4.0
 
+![9-3](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/9-3.jpg)
+
 Industry 4.0, also known as the Fourth Industrial Revolution, represents the integration of advanced technologies such as artificial intelligence (AI), the Internet of Things (IoT), and robotics into manufacturing and industrial processes. Robotics plays a crucial role in Industry 4.0 by enhancing automation, improving efficiency, and enabling smart manufacturing. This section explores the key roles of robotics in Industry 4.0, including automation and flexibility, predictive maintenance, human-robot collaboration, and data-driven decision-making.
 
 ### Key Roles of Robotics in Industry 4.0
@@ -4656,6 +4679,8 @@ Robotics, combined with AI and IoT, enables data-driven decision-making in manuf
 - **Optimized Processes:** Data-driven insights help manufacturers optimize production processes, reduce waste, and improve overall efficiency and productivity.
 
 ### Case Studies on Robotics in Industry 4.0
+
+###### Robotics plays a pivotal role in Industry 4.0, driving automation, 
 
 1. **Automotive Manufacturing**
 
@@ -4716,7 +4741,9 @@ Developing appropriate regulatory and ethical frameworks is essential to guide t
 - **Ethical Guidelines:** Developing ethical guidelines for the use of robotics, addressing issues such as data privacy, bias, and fairness.
 - **Regulatory Compliance:** Ensuring that robotic systems comply with relevant regulations and industry standards, particularly in sensitive areas such as pharmaceuticals and food safety.
 
-###### Robotics plays a pivotal role in Industry 4.0, driving automation, 
+# Appendices 
+
+![10](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/10.jpg)
 
 ## Appendix A: Glossary of Key Terms
 
