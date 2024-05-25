@@ -1,5 +1,7 @@
 https://aurelius-in.github.io/book-ai-robotics-future/README.md
 
+https://aurelius-in.github.io/book-ai-robotics-future/
+
 ![Cover Image](https://raw.githubusercontent.com/aurelius-in/book-ai-robotics-future/main/cover.jpg)
 
 
